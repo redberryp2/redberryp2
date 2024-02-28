@@ -1,4 +1,4 @@
-<!--img src="https://img.shields.io/badge/¾²°íÀÚÇÏ´Â_ÅØ½ºÆ®-ÄÃ·¯ÄÚµå?style=flat-square&logo=simpleicons¿¡¼­_¾ÆÀÌÄÜÀÌ¸§&logoColor=white"/></a-->
+<!--img src="https://img.shields.io/badge/ì“°ê³ ìží•˜ëŠ”_í…ìŠ¤íŠ¸-ì»¬ëŸ¬ì½”ë“œ?style=flat-square&logo=simpleiconsì—ì„œ_ì•„ì´ì½˜ì´ë¦„&logoColor=white"/></a-->
 <!-- referred [here](https://zzsza.github.io/development/2020/07/10/make-github-profile-readme/) [here2](https://velog.io/@woo0_hooo/Github-github-profile-%EA%B0%84%EC%A7%80%EB%82%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0) [here3](https://github.com/ProtossDragoon/ProtossDragoon/blob/master/README.md) -->
 <!-- [icons](https://simpleicons.org/) [stats](https://github.com/anuraghazra/github-readme-stats) [hits](https://hits.seeyoufarm.com/) [badges](https://efficientuser.com/2019/09/12/add-some-cool-badges-in-your-github-repo/) -->
 
@@ -41,7 +41,7 @@
 <!--## Pinned repos-->
 ### Analysis and utils
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=redberryp2&repo=Coding&theme=chartreuse-dark)](https://github.com/redberryp2/Coding)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=redberryp2&repo=Aim&theme=chartreuse-dark)](https://github.com/redberryp2/Aim)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=redberryp2&repo=Autonomous-Stack&theme=chartreuse-dark)](https://github.com/redberryp2/Autonomous-Stack)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=redberryp2&repo=DeeqQlearning_model&theme=chartreuse-dark)](https://github.com/redberryp2/DeeqQlearning_model)
 
 
