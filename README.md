@@ -6,6 +6,18 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fredberryp2&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+# About Me
+
+? **Education:** Currently pursuing my degree in [Your Major] at Inha University, a leading institution known for its excellence in [specific field or programs].
+
+? **University Life:** Embracing the challenges and opportunities that come with university life. Engaged in [specific activities or clubs] and passionate about [your interests or focus areas].
+
+? **Learning Journey:** Constantly exploring and expanding my knowledge in [Your Major or Specific Subjects]. Excited about the intersection of [Your Major] with [another field or interest].
+
+? **Goals:** Aspiring to leverage my education at Inha University to make a positive impact in [Your Career Field or Industry]. Committed to continuous learning and personal growth.
+
+Feel free to customize the content based on your actual major, activities, and experiences at Inha University. The key is to provide a brief and compelling overview of your educational journey and aspirations.
+
 ## Interest
 
 **Autonomous Path Planning and Control**
