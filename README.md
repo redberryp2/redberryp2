@@ -39,7 +39,7 @@
 <br>
 
 <!--## Pinned repos-->
-### Analysis and utils
+### Repository
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=redberryp2&repo=Coding&theme=chartreuse-dark)](https://github.com/redberryp2/Coding)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=redberryp2&repo=Autonomous-Stack&theme=chartreuse-dark)](https://github.com/redberryp2/Autonomous-Stack)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=redberryp2&repo=DeeqQlearning_model&theme=chartreuse-dark)](https://github.com/redberryp2/DeeqQlearning_model)
