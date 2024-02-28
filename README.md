@@ -8,15 +8,7 @@
 
 # About Me
 
-? **Education:** Currently pursuing my degree in [Your Major] at Inha University, a leading institution known for its excellence in [specific field or programs].
-
-? **University Life:** Embracing the challenges and opportunities that come with university life. Engaged in [specific activities or clubs] and passionate about [your interests or focus areas].
-
-? **Learning Journey:** Constantly exploring and expanding my knowledge in [Your Major or Specific Subjects]. Excited about the intersection of [Your Major] with [another field or interest].
-
-? **Goals:** Aspiring to leverage my education at Inha University to make a positive impact in [Your Career Field or Industry]. Committed to continuous learning and personal growth.
-
-Feel free to customize the content based on your actual major, activities, and experiences at Inha University. The key is to provide a brief and compelling overview of your educational journey and aspirations.
+**Education:** Inha University, B.S. in Mechanical Engineering
 
 ## Interest
 
@@ -36,7 +28,7 @@ Feel free to customize the content based on your actual major, activities, and e
 ## More about me
 <p align="center">
   <a href="https://redberryp2.github.io/"><img src="https://img.shields.io/badge/-redberry%20p2-black?style=flat-square&logo=github&logoColor=white"/></a>&nbsp
-  <a href=https://www.youtube.com/channel/UCaf8PU-oT5beuguaIdcQmxw"><img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&logoColor=white"/></a>&nbsp
+  <a href=https://youtu.be/4fYsfZ0rsK4?si=pa7t1bGm5nnm7Q0t"><img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&logoColor=white"/></a>&nbsp
   <a href="mailto:sangwoo6999@naver.com"><img src="https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
 </p>
 
